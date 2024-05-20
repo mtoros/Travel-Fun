@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <title>Travel Fun agency</title>
+  <link rel="stylesheet" type="text/css" href="./travel_recommendation.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <div class="grid-container">
+        <nav class="myheader"><h1>Travel Fun </h1>
+            <img src="./logo.svg" id="logo">
+            <ul>
+            <li><a href="./travel_recommendation.html" id="home">Home </a></li>
+            <li><a href="./about_us.html" id="aboutUs">About Us </a></li>
+            <li><a href="./contact_us.html" id="contactUS">Contact Us </a></li>
+            <li><input type="text" id="searchBar" placeholder="Enter a destination">  </li>
+            <li><button id='btnSearch' class="mybuttons">SEARCH</button></li>
+            <li><button id='btnReset' class="mybuttons">RESET</button></li>
+            </ul>
+        </nav>
+
+        <div class="myleft">
+            <div class="intro">YOUR DREAM VACATION</div>
+            <div class="info">We offer the best vacations. 
+            Explore our vacations locations by clicking on the Search button. 
+            Your vacation is only a few clicks away.
+            We offer sight seeing tours across the globe.
+            </div>
+            <button id="buttonBook" class="mybuttons">BOOK NOW</button>
+        </div>
+      
+        <div id="result" class="myright"></div>
+
+        <div id="social" class="myfooter">
+            <a href="#" class="fa fa-facebook"></a>
+            <a href="#" class="fa fa-twitter"></a>
+            <a href="#" class="fa fa-google"></a>
+            <a href="#" class="fa fa-linkedin"></a>
+        </div>
+
+    </div>
+
+    <script src="./travel_recommendation.js"></script>
+</body>
+</html>

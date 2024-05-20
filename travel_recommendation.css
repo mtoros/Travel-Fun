@@ -1,0 +1,180 @@
+/*The grid layout*/
+.grid-container {
+  display: grid;
+  grid:
+  'header header header'
+  'left center right'
+  'footer footer footer';
+  grid-gap: 10px;
+  background-image: url("images/beach.jpg");  
+  max-width:100%;
+  /*height: auto;*/
+  min-height: 1000px;
+  background-size: cover;  
+  padding: 10px;
+}
+
+.grid-container > div {
+  background-color: transparent;
+  text-align: justify;
+  padding: 20px 0;
+  font-size: 30px;
+}
+
+.myleft {grid-area: left; 
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 150px;
+    margin-left: 80px;
+    width: 400px;
+    background-color: transparent;}
+
+.myright { grid-area: right;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 150px;
+    margin-left: 80px;
+    max-width: 700px;
+}
+
+.avatars{
+    width: 50px;
+}
+
+.myheader { 
+    grid-area: header;
+    max-height:150px;
+    align-self: left;
+}
+
+.myfooter  { 
+    text-align: center;
+    grid-row: 3; 
+    grid-column-start: 1; 
+    grid-column-end: 3; 
+}
+
+.combined{
+    grid-area:  center; 
+    justify-content: center;
+}
+ 
+
+/*Styling of the elements*/
+nav {
+    background-color: rgb(97, 148, 97,0.5);
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 25px;    
+    background-size: cover;
+
+  }
+  
+  nav h1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: azure;
+    font-weight: bold;  
+    font-size: 36pt;
+}
+  nav ul {
+    list-style-type: none;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+    font-size: 18pt;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+
+  nav input{
+    display: inline;
+    margin-right: 10px;
+    font-size: 18pt;
+  }
+
+ nav img {
+    width: auto;
+    height: 72pt;
+ }
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    float: center;
+    text-decoration: none;
+    margin: 10px 10px;
+    border-radius: 50%;
+}
+  
+.fa:hover {
+      opacity: 0.7;
+}
+  
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+  
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+  
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+  
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.intro{
+    color: azure;
+    font-weight: bold;  
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 72pt;
+}
+
+.info2{
+    color: azure;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28pt;
+    background-color: transparent;
+    border-radius: 10px;;
+}
+
+.info{
+    color: azure;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18pt;
+}
+
+.mybuttons{
+    color: azure;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18pt;
+    background-color:  rgba(0, 0, 0, 0.2);
+    border-color: transparent;
+    border-radius: 10px;;
+
+ 
+ }
+
+.mybuttons:hover {
+    opacity: 0.7;
+}
+
+.myimages{
+    width: 700px;
+}

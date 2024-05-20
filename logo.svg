@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="58.064487mm"
+   height="50.196598mm"
+   viewBox="0 0 58.064488 50.196598"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.1373668"
+     inkscape:cx="48.190138"
+     inkscape:cy="100.35713"
+     inkscape:window-width="1850"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient4"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#454c56;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#454c56;stop-opacity:0;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1">
+      <stop
+         style="stop-color:#ff8080;stop-opacity:1"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#adadad;stop-opacity:0;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="33.738945"
+       y1="70.745209"
+       x2="100.27985"
+       y2="106.01053"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.3629207,60.052095)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4"
+       id="linearGradient5"
+       x1="108.95532"
+       y1="98.937523"
+       x2="189.14296"
+       y2="98.937523"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-59.902411,-136.8344)">
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#454c56;stroke-width:0.4"
+       id="path1"
+       cx="88.934654"
+       cy="161.93269"
+       rx="28.832243"
+       ry="24.898298" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';fill:#ff8080;stroke:#454c56;stroke-width:0.4"
+       x="62.958858"
+       y="23.270359"
+       id="text7"><tspan
+         id="tspan7"
+         style="stroke-width:0.4"
+         x="62.958858"
+         y="23.270359" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';fill:none;stroke:#454c56;stroke-width:0.4"
+       x="70.179596"
+       y="163.42494"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="fill:none;stroke-width:0.4"
+         x="70.179596"
+         y="163.42494" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';fill:none;stroke:none;stroke-width:0.4"
+       x="77.262672"
+       y="157.34911"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="stroke:none;stroke-width:0.4"
+         x="77.262672"
+         y="157.34911">T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1157px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:none;stroke:#454c56;stroke-width:1.06701;stroke-opacity:1"
+       x="20.684452"
+       y="110.66206"
+       id="text4"
+       transform="matrix(0.56089338,-0.17248427,0.50089492,1.6288363,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1157px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:none;stroke:#454c56;stroke-width:1.06701;stroke-opacity:1"
+         x="20.684452"
+         y="110.66206">TRAVEL FUN</tspan></text>
+  </g>
+</svg>
